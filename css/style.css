@@ -1,3 +1,100 @@
+#cores {
+    width: 200px;
+    height: 200px;
+    background-color: hsla(20, 100%, 59%, 0.8);
+}
+
+
+/*
+    AULAS 13 E 14
+* {
+    font-size: 100%;
+}
+/* medidas relativas : pega o valor em px e divide por 16
+ex : 40 / 16 = 2.5 */
+/*
+p {
+    font-family: 'Roboto', sans-serif;;
+    /*font-variant: small-caps;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 1.2em;
+}*/
+
+
+/* AULA 12
+#bloco {
+    background-color: green;
+    width: 300px;
+    height: 150px;
+    border-bottom-left-radius: 20px;   
+}
+*/
+
+/* AULA 11
+#conteudo {
+    background-color: red;
+    width: 300px;    
+    height: 70px;
+    overflow: auto;
+}
+
+#conteudo p {
+    opacity: 0;
+}
+*/
+
+/** AULA 10 
+
+
+* {
+
+    box-sizing: border-box;
+}
+
+#conteudo {
+    background-color: red;
+    width: 300px;
+    padding: 20px;
+    box-shadow: 10px 10px 5px green;
+}
+
+*/
+
+
+
+
+
+/* AULA 8 E 9 */
+
+/*
+p {
+    color: red;
+    text-transform: capitalize;
+    text-align: justify;
+    text-indent: 20px;
+    line-height: 35px;
+    direction: ltr;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
+
+h1 {
+    text-align: left;
+    text-decoration: underline;    
+    text-shadow: 1px -30px red;
+}
+
+h2{
+    text-align: right;
+    text-decoration: overline;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: line-through;
+}
+*/
 /* AULA 07 */
 /*
 #exemplo {
@@ -14,8 +111,8 @@
     color: #fff;
     width: 500px;
     margin: 20px 30px 20px 40px;    
-}*/
-
+}
+*/
 /* AULA 06 */
 
 /*
